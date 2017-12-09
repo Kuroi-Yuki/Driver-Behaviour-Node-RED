@@ -1,10 +1,10 @@
 import ibmiotf.device
 
-organization = 
-deviceType = 
-deviceId = 
+organization = #add organisation from the IoT platform service
+deviceType = #add device type from the IoT platform service
+deviceId = #add device ID from the IoT platform service
 authMethod = "token"
-authToken = 
+authToken = #add authentication token from the IoT platform service
 
 acc_x = 0.1 # -10 to 10 # Acceleration in x direction
 acc_y = 0.2 # -10 to 10 # Acceleration in y direction
